@@ -1,0 +1,8 @@
+gigaword/
+outputs/
+web/
+webnlg-dataset/
+*.zip
+*.xml
+*.txt
+*.gz
